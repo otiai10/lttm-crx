@@ -25,14 +25,14 @@
   },
   "homepage": "https://github.com/fukayatsu/lttm-crx",
   "devDependencies": {
-    "gulp": "^3.6.0",
+    "gulp": "4.0.2",
     "gulp-coffee": "^1.4.1",
     "gulp-concat": "^2.2.0",
     "gulp-uglify": "^0.2.1",
-    "gulp-zip": "^0.3.3",
+    "gulp-zip": "4.2.0",
     "coffee-script": "^1.7.1",
-    "gulp-sass": "^0.7.1",
+    "gulp-sass": "6.0.1",
     "gulp-clean": "^0.2.4",
-    "run-sequence": "^0.3.6"
+    "sass": "1.107.1"
   }
 }
